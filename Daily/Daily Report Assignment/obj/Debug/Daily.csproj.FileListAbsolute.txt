@@ -1,0 +1,7 @@
+P:\Basic_C#_Programs\Daily\Daily\bin\Debug\Daily.exe.config
+P:\Basic_C#_Programs\Daily\Daily\bin\Debug\Daily.exe
+P:\Basic_C#_Programs\Daily\Daily\bin\Debug\Daily.pdb
+P:\Basic_C#_Programs\Daily\Daily\obj\Debug\Daily.csproj.AssemblyReference.cache
+P:\Basic_C#_Programs\Daily\Daily\obj\Debug\Daily.csproj.CoreCompileInputs.cache
+P:\Basic_C#_Programs\Daily\Daily\obj\Debug\Daily.exe
+P:\Basic_C#_Programs\Daily\Daily\obj\Debug\Daily.pdb
