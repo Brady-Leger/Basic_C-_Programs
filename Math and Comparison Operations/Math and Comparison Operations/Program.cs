@@ -47,26 +47,36 @@ namespace Math_and_Comparison_Operations
             //bool isWarm = currentTemperature != roomTemperature;
             //Console.WriteLine(isWarm);
             //Console.ReadLine();
-
+            
             double multiplication = 7.0 * 50.0;
             Console.WriteLine("Seven Multiplied by Fifty = " + multiplication.ToString());
             Console.ReadLine();
+
+            // The above block multiplies 7 by 50
 
             int add = 7 + 25;
             Console.WriteLine("Seven Added to Twenty-Five = " + add.ToString());
             Console.ReadLine();
 
+            // The above block adds 7 to 25
+
             double divide = 7.0 / 12.5;
             Console.WriteLine("Seven Divided by Fourteen = " + divide.ToString());
             Console.ReadLine();
+
+            // The above block divides 7 by 12.5
 
             bool greater = 7 > 50;
             Console.WriteLine("Is Seven Greater Than Fifty? " + greater.ToString());
             Console.ReadLine();
 
+            // The above block checks to see if 7 is greater than 50 and prints "True or False" depending on the answer.
+
             int leftover = 50 % 7;
             Console.WriteLine("What is the remainder of 50 / 7? " + leftover.ToString());
             Console.ReadLine();
+
+            // The above block shows what is left over when you divide 50 by 7
         }
     }
 }
