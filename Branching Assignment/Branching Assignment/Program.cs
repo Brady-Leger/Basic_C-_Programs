@@ -19,7 +19,7 @@ namespace Branching_Assignment
             {
                 Console.WriteLine("This package is too heavy to be shipped via Package Express. Have a nice day!");
                 Console.ReadLine();
-                System.Environment.Exit(1);
+                return;
             }
             else
             {
