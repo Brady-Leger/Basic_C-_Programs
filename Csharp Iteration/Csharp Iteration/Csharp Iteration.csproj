@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B052D0A9-2299-4216-B6E3-7083422D82DE}</ProjectGuid>
+    <ProjectGuid>{C8260244-ACCB-4E79-BA30-6EAABDC7BE56}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ArraysAndLists</RootNamespace>
-    <AssemblyName>ArraysAndLists</AssemblyName>
+    <RootNamespace>Csharp_Iteration</RootNamespace>
+    <AssemblyName>Csharp Iteration</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Array Assigment.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

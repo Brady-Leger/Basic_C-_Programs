@@ -1,0 +1,7 @@
+P:\Basic_C#_Programs\Csharp Iteration\Csharp Iteration\obj\Debug\Csharp Iteration.csproj.AssemblyReference.cache
+P:\Basic_C#_Programs\Csharp Iteration\Csharp Iteration\obj\Debug\Csharp Iteration.csproj.CoreCompileInputs.cache
+P:\Basic_C#_Programs\Csharp Iteration\Csharp Iteration\bin\Debug\Csharp Iteration.exe.config
+P:\Basic_C#_Programs\Csharp Iteration\Csharp Iteration\bin\Debug\Csharp Iteration.exe
+P:\Basic_C#_Programs\Csharp Iteration\Csharp Iteration\bin\Debug\Csharp Iteration.pdb
+P:\Basic_C#_Programs\Csharp Iteration\Csharp Iteration\obj\Debug\Csharp Iteration.exe
+P:\Basic_C#_Programs\Csharp Iteration\Csharp Iteration\obj\Debug\Csharp Iteration.pdb
