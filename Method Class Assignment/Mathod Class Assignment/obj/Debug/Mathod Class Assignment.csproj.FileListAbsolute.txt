@@ -1,0 +1,7 @@
+C:\Users\Leger\source\repos\Mathod Class Assignment\Mathod Class Assignment\bin\Debug\Mathod Class Assignment.exe.config
+C:\Users\Leger\source\repos\Mathod Class Assignment\Mathod Class Assignment\bin\Debug\Mathod Class Assignment.exe
+C:\Users\Leger\source\repos\Mathod Class Assignment\Mathod Class Assignment\bin\Debug\Mathod Class Assignment.pdb
+C:\Users\Leger\source\repos\Mathod Class Assignment\Mathod Class Assignment\obj\Debug\Mathod Class Assignment.csproj.AssemblyReference.cache
+C:\Users\Leger\source\repos\Mathod Class Assignment\Mathod Class Assignment\obj\Debug\Mathod Class Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Leger\source\repos\Mathod Class Assignment\Mathod Class Assignment\obj\Debug\Mathod Class Assignment.exe
+C:\Users\Leger\source\repos\Mathod Class Assignment\Mathod Class Assignment\obj\Debug\Mathod Class Assignment.pdb
