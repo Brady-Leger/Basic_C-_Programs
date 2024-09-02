@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{54C5FEE7-F9D9-4E4B-974E-878DB2BD2AD6}</ProjectGuid>
+    <ProjectGuid>{0B2EAC9F-30A5-4BD5-83B3-5C955C67B8F0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BlackJack</RootNamespace>
-    <AssemblyName>BlackJack</AssemblyName>
+    <RootNamespace>Class_Method_Assignment</RootNamespace>
+    <AssemblyName>Class Method Assignment</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BlackJack.cs" />
-    <Compile Include="Card.cs" />
-    <Compile Include="Dealer.cs" />
-    <Compile Include="Deck.cs" />
-    <Compile Include="Game.cs" />
-    <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

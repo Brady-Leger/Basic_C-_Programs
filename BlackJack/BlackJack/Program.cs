@@ -10,28 +10,22 @@ namespace BlackJack
     {
         static void Main(string[] args)
         {
-            Deck deck = new Deck();
-            int timesShuffled = 0;
-            deck = Shuffle(deck, out timesShuffled, 3);
-            
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
-            Console.WriteLine("times shuffled: {0}", timesShuffled);
+            BlackJack game = new BlackJack();
+            game.Players = new List<string>() { "Brady", "Adia", "Maizie" };
+            game.ListPlayers();
             Console.ReadLine();
-        }
 
+            //Deck deck = new Deck();
+            //deck.Shuffle(3);
+            
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
+            //Console.ReadLine();
+        }
        
 
-        //public static Deck Shuffle(Deck deck, int times)
-        //{
-        //    for (int i = 0; i < times; i++)
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}
     }
 }
