@@ -8,5 +8,6 @@ namespace Methods_and_Objects_Assignment
 {
     interface IQuittable
     {
+        void Quit(Employee employee);
     }
 }
